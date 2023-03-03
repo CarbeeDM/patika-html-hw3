@@ -1,0 +1,26 @@
+.color2{
+    background-color: #963102;
+    width:fit-content;
+    padding: 2px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.list-horizontal{
+    list-style-type: square;
+    margin-left: 565px;
+    float: left;
+}
+.list-horizontal span{
+    margin-left: 5px;
+    text-decoration: underline;
+    color: black;
+}
+
+.list-horizontal span b{
+    color: #963102;
+}
+
+.tarif{
+    margin-left: 565px;
+}
